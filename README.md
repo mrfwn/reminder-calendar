@@ -32,4 +32,7 @@
    - The implementation of the functionality test is pending 
 
 ## Contact:
-    - <mariowessen@gmail.com>
+    - mariowessen@gmail.com
+
+## Demo URL:
+    - https://aesthetic-genie-4eb7d2.netlify.app/
